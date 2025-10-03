@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 - 💼 3 years of experience in **Fintech** domain (Capgemini, Jio Payments Bank client)  
 - 🔧 Hands-on with **Java, Spring Boot, ReactJS**
 - 🌱 Currently focusing on learning AWS and Docker. 
@@ -24,7 +24,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragnesh.poojary@gmail.com)
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
