@@ -5,14 +5,14 @@
 ---
 
 ##  About Me  
-- 💼 3 years of experience in **Fintech** domain (Capgemini, Jio Payments Bank client)  
-- 🔧 Hands-on with **Java, Spring Boot, ReactJS**
-- 🌱 Currently focusing on learning AWS and Docker. 
-- ☁️ Experienced in **microservices, cloud deployment, REST APIs**  
-- 🎯 Passionate about **problem solving**  
-- 📈 Always learning, exploring new technologies, and improving scalability of systems
-- 📫 How to reach me: pragnesh.poojary@gmail.com  
-- 👨‍💻 All of my projects are available [here](https://github.com/PRAGNESH123)
+-  3 years of experience in **Fintech** domain (Capgemini, Jio Payments Bank client)  
+-  Hands-on with **Java, Spring Boot, ReactJS**
+-  Currently focusing on learning AWS and Docker. 
+-  Experienced in **microservices, cloud deployment, REST APIs**  
+-  Passionate about **problem solving**  
+-  Always learning, exploring new technologies, and improving scalability of systems
+-  How to reach me: pragnesh.poojary@gmail.com  
+-  All of my projects are available [here](https://github.com/PRAGNESH123)
 
 
 
